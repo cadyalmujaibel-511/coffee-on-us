@@ -1,3 +1,57 @@
+body{
+  background-color: gray;
+  
+}
+.english{
+
+  text-align: left;
+}
+h3{
+  text-align: right;
+}
+
+/* p{
+  text-align: right;
+} */
+
+.space {
+  margin-bottom: 8em;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+.blue{
+  color: blue;
+}
+th, td{
+  border: 1px solid white;
+
+}
+a{
+  text-decoration:none;
+}
+
+table{
+  border: 1px solid white;
+  border-collapse: collapse;
+  
+  margin:auto;
+}
+ .inline{
+display: flex;
+
+ }
+ ul{
+
+  list-style-type: none;
+ }
+
 /* td {
   background-color: orange;
 } */
